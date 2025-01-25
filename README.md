@@ -1,0 +1,2 @@
+# SPEECH-EMOTION-RECOGNITION
+Using Deep learning 
