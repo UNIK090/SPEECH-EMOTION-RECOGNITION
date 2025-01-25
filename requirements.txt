@@ -1,0 +1,7 @@
+librosa
+numpy
+tensorflow
+flask
+flask-cors
+scikit-learn
+
